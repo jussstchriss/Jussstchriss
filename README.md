@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=610&height=44&lines=Mastering%20my%20Cyber%20skills;Currently%20mastering%20my%20pen%20test%20skills" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=Mastering%20my%20Cyber%20skills;Currently%20mastering%20my%20pen%20testing%20skills" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
