@@ -12,7 +12,6 @@
 
 I am a self study type of guy
 
-🔭 &nbsp;I'm currently working on **Security Plus certificate**  
 🌱 &nbsp;I'm currently learning **how to pen test**
 
 ### 🛠️ Tech Stack
