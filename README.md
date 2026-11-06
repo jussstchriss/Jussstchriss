@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-On a mission to become a Cyber Security proffesional
+On a mission to become a Cyber Security professional
 
 🌱 &nbsp;I'm currently learning **how to pen test**
 
