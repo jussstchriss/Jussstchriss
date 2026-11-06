@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Jussstchriss">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hi!%20I'm%20Chris" alt="Hi! I&#39;m Chris" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=Mastering%20my%20Cyber%20skills;Currently%20mastering%20my%20pen%20testing%20skills" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=Currently%20mastering%20my%20pen%20testing%20skills" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
