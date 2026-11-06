@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a self study type of guy
+On a mission to become a Cyber Security proffesional
 
 🌱 &nbsp;I'm currently learning **how to pen test**
 
