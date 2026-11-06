@@ -4,9 +4,7 @@
 
 ### 🚀 About Me
 
-On a mission to become a Cyber Security professional
-
-🌱 &nbsp;I'm currently learning **how to pen test**
+🌱 &nbsp;On a mission to become a Cyber Security Professional
 
 ### 🛠️ Tech Stack
 
